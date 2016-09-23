@@ -11,7 +11,6 @@
 		653510421D93865300D05CCC /* LNBModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 653510411D93865300D05CCC /* LNBModel.m */; };
 		653510461D93871A00D05CCC /* LeftCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 653510451D93871A00D05CCC /* LeftCell.m */; };
 		653510491D93873000D05CCC /* RightCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 653510481D93873000D05CCC /* RightCell.m */; };
-		6535104D1D938FB700D05CCC /* NSObject+Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 6535104C1D938FB700D05CCC /* NSObject+Model.m */; };
 		653510501D93B70600D05CCC /* childModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6535104F1D93B70600D05CCC /* childModel.m */; };
 		653510531D93D33E00D05CCC /* RightTableViewHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 653510521D93D33E00D05CCC /* RightTableViewHeaderView.m */; };
 		653510591D93DAA500D05CCC /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 653510571D93DAA500D05CCC /* Contents.json */; };
@@ -56,8 +55,6 @@
 		653510451D93871A00D05CCC /* LeftCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftCell.m; sourceTree = "<group>"; };
 		653510471D93873000D05CCC /* RightCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightCell.h; sourceTree = "<group>"; };
 		653510481D93873000D05CCC /* RightCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RightCell.m; sourceTree = "<group>"; };
-		6535104B1D938FB700D05CCC /* NSObject+Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Model.h"; sourceTree = "<group>"; };
-		6535104C1D938FB700D05CCC /* NSObject+Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Model.m"; sourceTree = "<group>"; };
 		6535104E1D93B70600D05CCC /* childModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = childModel.h; sourceTree = "<group>"; };
 		6535104F1D93B70600D05CCC /* childModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = childModel.m; sourceTree = "<group>"; };
 		653510511D93D33E00D05CCC /* RightTableViewHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightTableViewHeaderView.h; sourceTree = "<group>"; };
@@ -144,8 +141,6 @@
 		6535104A1D938F4900D05CCC /* Tool */ = {
 			isa = PBXGroup;
 			children = (
-				6535104B1D938FB700D05CCC /* NSObject+Model.h */,
-				6535104C1D938FB700D05CCC /* NSObject+Model.m */,
 				6535105B1D940D1C00D05CCC /* AddShopCarsAnimationTool.h */,
 				6535105C1D940D1C00D05CCC /* AddShopCarsAnimationTool.m */,
 			);
@@ -460,7 +455,6 @@
 				653510491D93873000D05CCC /* RightCell.m in Sources */,
 				6535105D1D940D1C00D05CCC /* AddShopCarsAnimationTool.m in Sources */,
 				65B5BC2B1D92D16F0052BF33 /* AppDelegate.m in Sources */,
-				6535104D1D938FB700D05CCC /* NSObject+Model.m in Sources */,
 				653510421D93865300D05CCC /* LNBModel.m in Sources */,
 				65B5BC281D92D16F0052BF33 /* main.m in Sources */,
 			);

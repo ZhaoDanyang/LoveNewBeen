@@ -9,7 +9,6 @@
 #import "SuperMarketVc.h"
 #import "LNBModel.h"
 #import "childModel.h"
-#import "NSObject+Model.h"
 #import "LeftCell.h"
 #import "RightCell.h"
 #import <MJExtension.h>
